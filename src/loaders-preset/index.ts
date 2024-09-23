@@ -1,0 +1,1 @@
+export { loaderPreset } from './preset'
