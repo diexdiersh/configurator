@@ -5,7 +5,7 @@
     "removeComments": false,
     "target": "ES2021",
     "strict": true,
-    "module": "ESNext",
+    "module": "CommonJS",
     "noEmitOnError": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
